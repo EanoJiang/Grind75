@@ -1,0 +1,4 @@
+/Users/User/Desktop/Grind75/树/obj/Debug/net7.0/树.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Desktop/Grind75/树/obj/Debug/net7.0/树.AssemblyInfoInputs.cache
+/Users/User/Desktop/Grind75/树/obj/Debug/net7.0/树.AssemblyInfo.cs
+/Users/User/Desktop/Grind75/树/obj/Debug/net7.0/树.csproj.CoreCompileInputs.cache
