@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\93415\\OneDrive - dlmu.edu.cn\\\u684C\u9762\\Grind75\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E628885-D9D3-49F0-B56D-0AFE37C02640}|Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.csproj|c:\\users\\93415\\onedrive - dlmu.edu.cn\\\u684C\u9762\\grind75\\best time to buy and sell stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E628885-D9D3-49F0-B56D-0AFE37C02640}|Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.csproj|solutionrelative:best time to buy and sell stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEA1CA4-83E6-4B4B-8B08-79F24A33E013}|Insert Intertval\\Insert Intertval.csproj|c:\\users\\93415\\onedrive - dlmu.edu.cn\\\u684C\u9762\\grind75\\insert intertval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEA1CA4-83E6-4B4B-8B08-79F24A33E013}|Insert Intertval\\Insert Intertval.csproj|solutionrelative:insert intertval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D72176-9AA3-4A92-A759-3C3CBC9443F5}|ToSum\\ToSum.csproj|c:\\users\\93415\\onedrive - dlmu.edu.cn\\\u684C\u9762\\grind75\\tosum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94D72176-9AA3-4A92-A759-3C3CBC9443F5}|ToSum\\ToSum.csproj|solutionrelative:tosum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\93415\\OneDrive - dlmu.edu.cn\\\u684C\u9762\\Grind75\\Insert Intertval\\Program.cs",
+              "RelativeDocumentMoniker": "Insert Intertval\\Program.cs",
+              "ToolTip": "C:\\Users\\93415\\OneDrive - dlmu.edu.cn\\\u684C\u9762\\Grind75\\Insert Intertval\\Program.cs",
+              "RelativeToolTip": "Insert Intertval\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T11:07:22.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\93415\\OneDrive - dlmu.edu.cn\\\u684C\u9762\\Grind75\\Best Time to Buy and Sell Stock\\Program.cs",
+              "RelativeDocumentMoniker": "Best Time to Buy and Sell Stock\\Program.cs",
+              "ToolTip": "C:\\Users\\93415\\OneDrive - dlmu.edu.cn\\\u684C\u9762\\Grind75\\Best Time to Buy and Sell Stock\\Program.cs",
+              "RelativeToolTip": "Best Time to Buy and Sell Stock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:27:29.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\93415\\OneDrive - dlmu.edu.cn\\\u684C\u9762\\Grind75\\ToSum\\Program.cs",
+              "RelativeDocumentMoniker": "ToSum\\Program.cs",
+              "ToolTip": "C:\\Users\\93415\\OneDrive - dlmu.edu.cn\\\u684C\u9762\\Grind75\\ToSum\\Program.cs",
+              "RelativeToolTip": "ToSum\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:14:15.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

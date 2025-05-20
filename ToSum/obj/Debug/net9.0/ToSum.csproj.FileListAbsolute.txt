@@ -1,0 +1,15 @@
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\bin\Debug\net9.0\ToSum.exe
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\bin\Debug\net9.0\ToSum.deps.json
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\bin\Debug\net9.0\ToSum.runtimeconfig.json
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\bin\Debug\net9.0\ToSum.dll
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\bin\Debug\net9.0\ToSum.pdb
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\obj\Debug\net9.0\ToSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\obj\Debug\net9.0\ToSum.AssemblyInfoInputs.cache
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\obj\Debug\net9.0\ToSum.AssemblyInfo.cs
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\obj\Debug\net9.0\ToSum.csproj.CoreCompileInputs.cache
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\obj\Debug\net9.0\ToSum.sourcelink.json
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\obj\Debug\net9.0\ToSum.dll
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\obj\Debug\net9.0\refint\ToSum.dll
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\obj\Debug\net9.0\ToSum.pdb
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\obj\Debug\net9.0\ToSum.genruntimeconfig.cache
+C:\Users\93415\OneDrive - dlmu.edu.cn\桌面\Grind75\ToSum\obj\Debug\net9.0\ref\ToSum.dll
