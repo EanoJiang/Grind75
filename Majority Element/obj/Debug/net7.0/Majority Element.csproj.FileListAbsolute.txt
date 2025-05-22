@@ -1,0 +1,14 @@
+/Users/User/Desktop/Grind75/Majority Element/obj/Debug/net7.0/Majority Element.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Desktop/Grind75/Majority Element/obj/Debug/net7.0/Majority Element.AssemblyInfoInputs.cache
+/Users/User/Desktop/Grind75/Majority Element/obj/Debug/net7.0/Majority Element.AssemblyInfo.cs
+/Users/User/Desktop/Grind75/Majority Element/obj/Debug/net7.0/Majority Element.csproj.CoreCompileInputs.cache
+/Users/User/Desktop/Grind75/Majority Element/bin/Debug/net7.0/Majority Element
+/Users/User/Desktop/Grind75/Majority Element/bin/Debug/net7.0/Majority Element.deps.json
+/Users/User/Desktop/Grind75/Majority Element/bin/Debug/net7.0/Majority Element.runtimeconfig.json
+/Users/User/Desktop/Grind75/Majority Element/bin/Debug/net7.0/Majority Element.dll
+/Users/User/Desktop/Grind75/Majority Element/bin/Debug/net7.0/Majority Element.pdb
+/Users/User/Desktop/Grind75/Majority Element/obj/Debug/net7.0/Majority Element.dll
+/Users/User/Desktop/Grind75/Majority Element/obj/Debug/net7.0/refint/Majority Element.dll
+/Users/User/Desktop/Grind75/Majority Element/obj/Debug/net7.0/Majority Element.pdb
+/Users/User/Desktop/Grind75/Majority Element/obj/Debug/net7.0/Majority Element.genruntimeconfig.cache
+/Users/User/Desktop/Grind75/Majority Element/obj/Debug/net7.0/ref/Majority Element.dll

@@ -1,0 +1,14 @@
+/Users/User/Desktop/Grind75/Contains Duplicate/bin/Debug/net7.0/Contains Duplicate
+/Users/User/Desktop/Grind75/Contains Duplicate/bin/Debug/net7.0/Contains Duplicate.deps.json
+/Users/User/Desktop/Grind75/Contains Duplicate/bin/Debug/net7.0/Contains Duplicate.runtimeconfig.json
+/Users/User/Desktop/Grind75/Contains Duplicate/bin/Debug/net7.0/Contains Duplicate.dll
+/Users/User/Desktop/Grind75/Contains Duplicate/bin/Debug/net7.0/Contains Duplicate.pdb
+/Users/User/Desktop/Grind75/Contains Duplicate/obj/Debug/net7.0/Contains Duplicate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Desktop/Grind75/Contains Duplicate/obj/Debug/net7.0/Contains Duplicate.AssemblyInfoInputs.cache
+/Users/User/Desktop/Grind75/Contains Duplicate/obj/Debug/net7.0/Contains Duplicate.AssemblyInfo.cs
+/Users/User/Desktop/Grind75/Contains Duplicate/obj/Debug/net7.0/Contains Duplicate.csproj.CoreCompileInputs.cache
+/Users/User/Desktop/Grind75/Contains Duplicate/obj/Debug/net7.0/Contains Duplicate.dll
+/Users/User/Desktop/Grind75/Contains Duplicate/obj/Debug/net7.0/refint/Contains Duplicate.dll
+/Users/User/Desktop/Grind75/Contains Duplicate/obj/Debug/net7.0/Contains Duplicate.pdb
+/Users/User/Desktop/Grind75/Contains Duplicate/obj/Debug/net7.0/Contains Duplicate.genruntimeconfig.cache
+/Users/User/Desktop/Grind75/Contains Duplicate/obj/Debug/net7.0/ref/Contains Duplicate.dll

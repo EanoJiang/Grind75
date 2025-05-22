@@ -1,32 +1,32 @@
 ﻿public class Solution
 {
-    ////O(n2) TLE
-    //public int MaxProfit(int[] prices)
-    //{
-    //    int maxProfit = 0;
-    //    for (int i = 0; i < prices.Length; i++)
-    //    {
-    //        for (int j = i + 1; j < prices.Length; j++)
-    //        {
-    //            maxProfit = Math.Max(prices[j] - prices[i], maxProfit);
-    //        }
-    //    }
-    //    return maxProfit;
-    //}
+    //O(n2) TLE
+    public int MaxProfit(int[] prices)
+    {
+       int maxProfit = 0;
+       for (int i = 0; i < prices.Length; i++)
+       {
+           for (int j = i + 1; j < prices.Length; j++)
+           {
+               maxProfit = Math.Max(prices[j] - prices[i], maxProfit);
+           }
+       }
+       return maxProfit;
+    }
 
-    ////O(n)
-    //public int MaxProfit(int[] prices)
-    //{
-    //    if (prices == null || prices.Length == 0) return 0;
-    //    int min = int.MaxValue, maxProfit = 0;
-    //    foreach (int price in prices)
-    //    {
-    //        min = Math.Min(price, min);
-    //        if (price > min)
-    //            maxProfit = Math.Max(maxProfit, price - min);
-    //    }
-    //    return maxProfit;
-    //}
+    //O(n)
+    public int MaxProfit(int[] prices)
+    {
+       if (prices == null || prices.Length == 0) return 0;
+       int min = int.MaxValue, maxProfit = 0;
+       foreach (int price in prices)
+       {
+           min = Math.Min(price, min);
+           if (price > min)
+               maxProfit = Math.Max(maxProfit, price - min);
+       }
+       return maxProfit;
+    }
 
     //O(n)这是解决买卖股票问题的通用解法——状态机
     public int MaxProfit(int[] prices)
