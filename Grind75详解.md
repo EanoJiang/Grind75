@@ -631,3 +631,157 @@ var keys = map.Where(x => x.Value == nums[i]).Select(x => x.Key).ToList();
 ```
 
 # Day4
+
+## 011 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+双指针法
+
+```csharp
+public class Solution {
+    public int MaxArea(int[] height)
+    {
+        int res = 0, left = 0, right = height.Length - 1;
+        while (left < right)
+        {
+            int minHeight = Math.Min(height[left], height[right]);
+            int width = right - left;
+            res = Math.Max(res, minHeight * width);
+            if (height[left] < height[right]) left++;
+            else right--;
+        }
+        return res;
+    }
+}
+```
+
+## 012 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+
+```csharp
+public class Solution
+{
+    public bool IsPalindrome(string s)
+    {
+        s = s.ToLower();
+        int left = 0, right = s.Length - 1;
+        while (left < right)
+        {
+            if (!char.IsLetterOrDigit(s[left]))
+            {
+                left++;
+                continue;
+            }
+            if (!char.IsLetterOrDigit(s[right]))
+            {
+                right--;
+                continue;
+            }
+            if (!(s[left] == s[right])) return false;
+            left++;
+            right--;
+        }
+        return true;
+    }
+}
+```
+
+char.isLetterOrDigit()换成自写函数
+
+```csharp
+public class Solution
+{
+    public bool IsPalindrome(string s)
+    {
+        s = s.ToLower();
+        int left = 0, right = s.Length - 1;
+        while (left < right)
+        {
+            if (!isAlgo(s[left]))
+            {
+                left++;
+                continue;
+            }
+            if (!isAlgo(s[right]))
+            {
+                right--;
+                continue;
+            }
+            if (!(s[left] == s[right])) return false;
+            left++;
+            right--;
+        }
+        return true;
+    }
+    public bool isAlgo(char c)
+    {
+        return (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') || (c >= '0' && c <= '9');
+    }
+}
+```
+
+正则表达式法
+
+Regex.Replace(s,"[^a-zA-Z0-9]", "")
+
+```csharp
+//正则表达式
+using System.Text.RegularExpressions;
+public class Solution
+{
+    public bool IsPalindrome(string s)
+    {
+        if (s.Length < 2 || s == null) return true;
+        s = Regex.Replace(s,"[^a-zA-Z0-9]", "").ToLower();
+        //这里和双指针是一样的
+        for (int i = 0; i < s.Length / 2; i++)
+        {
+            if (s[i] != s[s.Length - 1 - i]) return false;
+        }
+        return true;
+    }
+}
+```
+
+## 013 [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+
+计数数组法
+
+遍历2个字符串的每一个字符，与‘a’作差，让每个字符在计数数组里计数，一个加一个减，然后再遍历一遍，如果有非0的就false，全部都是0才true
+
+```csharp
+public class Solution {
+    public bool IsAnagram(string s, string t)
+    {
+        if (s.Length != t.Length) return false;
+        int[] map = new int[26];
+        for (int i = 0; i < s.Length; i++)
+        {
+            map[s[i] - 'a']++;
+            map[t[i] - 'a']--;
+        }
+        foreach (int e in map)
+        {
+            if (e != 0) return false;
+        }
+        return true;
+    }
+}
+```
+
+排序法(比较慢)
+
+```csharp
+public class Solution {
+    public bool IsAnagram(string s, string t)
+    {
+        if (s.Length != t.Length) return false;
+
+        char[] sArr = s.ToCharArray();
+        char[] tArr = t.ToCharArray();
+
+        Array.Sort(sArr);
+        Array.Sort(tArr);
+
+        return new string(sArr) == new string(tArr);
+    }
+}
+```
