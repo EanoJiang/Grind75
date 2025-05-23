@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "1Fj1hh5I/YQ5wcmWbvMwO4kIXMKz6fApndf6cLhpuM+SaZft9K1t0m2DCD8kU5nrXATXQdY1resv0ue0w5BX6w==",
+  "dgSpecHash": "gs/QGHIyxLA=",
   "success": true,
-  "projectFilePath": "/Users/User/Desktop/Grind75/Contains Duplicate/Contains Duplicate.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\93415\\OneDrive - dlmu.edu.cn\\桌面\\Grind75\\Contains Duplicate\\Contains Duplicate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\93415\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\93415\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\93415\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\93415\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
