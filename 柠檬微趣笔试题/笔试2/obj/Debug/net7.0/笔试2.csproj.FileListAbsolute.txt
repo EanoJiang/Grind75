@@ -1,0 +1,14 @@
+/Users/User/Desktop/Grind75/笔试2/bin/Debug/net7.0/笔试2
+/Users/User/Desktop/Grind75/笔试2/bin/Debug/net7.0/笔试2.deps.json
+/Users/User/Desktop/Grind75/笔试2/bin/Debug/net7.0/笔试2.runtimeconfig.json
+/Users/User/Desktop/Grind75/笔试2/bin/Debug/net7.0/笔试2.dll
+/Users/User/Desktop/Grind75/笔试2/bin/Debug/net7.0/笔试2.pdb
+/Users/User/Desktop/Grind75/笔试2/obj/Debug/net7.0/笔试2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Desktop/Grind75/笔试2/obj/Debug/net7.0/笔试2.AssemblyInfoInputs.cache
+/Users/User/Desktop/Grind75/笔试2/obj/Debug/net7.0/笔试2.AssemblyInfo.cs
+/Users/User/Desktop/Grind75/笔试2/obj/Debug/net7.0/笔试2.csproj.CoreCompileInputs.cache
+/Users/User/Desktop/Grind75/笔试2/obj/Debug/net7.0/笔试2.dll
+/Users/User/Desktop/Grind75/笔试2/obj/Debug/net7.0/refint/笔试2.dll
+/Users/User/Desktop/Grind75/笔试2/obj/Debug/net7.0/笔试2.pdb
+/Users/User/Desktop/Grind75/笔试2/obj/Debug/net7.0/笔试2.genruntimeconfig.cache
+/Users/User/Desktop/Grind75/笔试2/obj/Debug/net7.0/ref/笔试2.dll

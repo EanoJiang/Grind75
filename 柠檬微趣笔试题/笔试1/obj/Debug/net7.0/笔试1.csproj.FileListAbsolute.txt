@@ -1,0 +1,14 @@
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/obj/Debug/net7.0/笔试1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/obj/Debug/net7.0/笔试1.AssemblyInfoInputs.cache
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/obj/Debug/net7.0/笔试1.AssemblyInfo.cs
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/obj/Debug/net7.0/笔试1.csproj.CoreCompileInputs.cache
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/bin/Debug/net7.0/笔试1
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/bin/Debug/net7.0/笔试1.deps.json
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/bin/Debug/net7.0/笔试1.runtimeconfig.json
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/bin/Debug/net7.0/笔试1.dll
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/bin/Debug/net7.0/笔试1.pdb
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/obj/Debug/net7.0/笔试1.dll
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/obj/Debug/net7.0/refint/笔试1.dll
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/obj/Debug/net7.0/笔试1.pdb
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/obj/Debug/net7.0/笔试1.genruntimeconfig.cache
+/Users/User/Desktop/Grind75/柠檬微趣笔试题/笔试1/obj/Debug/net7.0/ref/笔试1.dll
