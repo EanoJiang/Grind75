@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Container With Most Water")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("消消乐场景题")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Container With Most Water")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Container With Most Water")]
+[assembly: System.Reflection.AssemblyProductAttribute("消消乐场景题")]
+[assembly: System.Reflection.AssemblyTitleAttribute("消消乐场景题")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

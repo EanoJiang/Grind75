@@ -29,6 +29,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Palindrome", "Valid P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Anagram", "Valid Anagram\Valid Anagram.csproj", "{C5266BEE-9808-4065-8647-1191DE779AD8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "柠檬微趣面经", "柠檬微趣面经", "{05F6F36B-E571-454D-BCCF-4D6A381058DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "一面", "一面", "{BD0D4F97-0BF6-41A5-B4A6-963AD8E36F7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "消消乐场景题", "柠檬微趣面经\一面\消消乐场景题\消消乐场景题.csproj", "{AEA117DB-34D8-45A5-B80B-84B8DE6E2615}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,11 +93,19 @@ Global
 		{C5266BEE-9808-4065-8647-1191DE779AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5266BEE-9808-4065-8647-1191DE779AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5266BEE-9808-4065-8647-1191DE779AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA117DB-34D8-45A5-B80B-84B8DE6E2615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA117DB-34D8-45A5-B80B-84B8DE6E2615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA117DB-34D8-45A5-B80B-84B8DE6E2615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA117DB-34D8-45A5-B80B-84B8DE6E2615}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1D15F24B-20DE-4BD1-B238-626FA43400D7}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BD0D4F97-0BF6-41A5-B4A6-963AD8E36F7E} = {05F6F36B-E571-454D-BCCF-4D6A381058DC}
+		{AEA117DB-34D8-45A5-B80B-84B8DE6E2615} = {BD0D4F97-0BF6-41A5-B4A6-963AD8E36F7E}
 	EndGlobalSection
 EndGlobal
